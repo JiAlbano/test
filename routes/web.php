@@ -1,11 +1,9 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-<<<<<<< HEAD
+
 // Your changes
-=======
-// Changes from the remote branch
->>>>>>> commit-hash
+
 
 Route::get('/', function () {
     return view('welcome');
